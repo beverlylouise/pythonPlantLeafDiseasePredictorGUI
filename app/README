@@ -1,0 +1,3 @@
+to run, make sure libraries are installed:
+in the terminal:
+pip install -r requirements.txt
